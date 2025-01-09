@@ -25,3 +25,7 @@
 * You can add a note for each commit you make.
 * You can see the history of each commit and what was added.
 * There is a commit hash for each commit which is a uniqe identifier for each one you make.
+
+'   '
+ ---
+
